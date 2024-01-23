@@ -1,0 +1,11 @@
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\bin\Debug\net8.0\CinemaForum.Repository.deps.json
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\bin\Debug\net8.0\CinemaForum.Repository.dll
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\bin\Debug\net8.0\CinemaForum.Repository.pdb
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\obj\Debug\net8.0\CinemaForum.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\obj\Debug\net8.0\CinemaForum.Repository.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\obj\Debug\net8.0\CinemaForum.Repository.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\obj\Debug\net8.0\CinemaForum.Repository.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\obj\Debug\net8.0\CinemaForum.Repository.dll
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\obj\Debug\net8.0\refint\CinemaForum.Repository.dll
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\obj\Debug\net8.0\CinemaForum.Repository.pdb
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Repository\obj\Debug\net8.0\ref\CinemaForum.Repository.dll

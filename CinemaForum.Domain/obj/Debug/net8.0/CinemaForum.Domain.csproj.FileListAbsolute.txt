@@ -1,0 +1,11 @@
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\obj\Debug\net8.0\CinemaForum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\obj\Debug\net8.0\CinemaForum.Domain.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\obj\Debug\net8.0\CinemaForum.Domain.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\obj\Debug\net8.0\CinemaForum.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\bin\Debug\net8.0\CinemaForum.Domain.deps.json
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\bin\Debug\net8.0\CinemaForum.Domain.dll
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\bin\Debug\net8.0\CinemaForum.Domain.pdb
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\obj\Debug\net8.0\CinemaForum.Domain.dll
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\obj\Debug\net8.0\refint\CinemaForum.Domain.dll
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\obj\Debug\net8.0\CinemaForum.Domain.pdb
+C:\Users\dmitr\source\repos\CinemaForum\CinemaForum.Domain\obj\Debug\net8.0\ref\CinemaForum.Domain.dll
